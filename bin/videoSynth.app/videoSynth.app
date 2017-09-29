@@ -1,0 +1,1 @@
+/Users/Manoxs/Library/Developer/Xcode/DerivedData/videoSynth-hkeuerpmkeubuffrrwafkwdndthd/Build/Intermediates/ArchiveIntermediates/videoSynth Release/InstallationBuildProductsLocation/Users/Manoxs/Applications/videoSynth.app
